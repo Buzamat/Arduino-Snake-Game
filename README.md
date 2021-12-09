@@ -17,4 +17,4 @@ Components used:
 - Resistor of 220 and 100k Ω
 - Electrolytic capacitor of 10 µF and of 104 pF
 
-[Youtube presentation](youtube.com/watch?v=LA2XDYq9hGA "Youtube Video")
+[Youtube presentation](https://www.youtube.com/watch?v=LA2XDYq9hGA)
