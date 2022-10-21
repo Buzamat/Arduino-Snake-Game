@@ -1,5 +1,7 @@
 Snake game.
 
+![image](https://user-images.githubusercontent.com/62521980/197261505-186f06b0-0145-405a-bbed-14f6dc26b9db.png)
+
 Components used:
 
 Arduino UNO
