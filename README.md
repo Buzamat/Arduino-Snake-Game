@@ -48,6 +48,9 @@ Main menu:
 
 The actual game:
 
+![image](https://user-images.githubusercontent.com/62521980/197261747-ec779df0-3d63-4be3-80ad-1a13a23f23de.png)
+
+
 When the player presses the start new game button, the actual Snake game starts. This is just a simple snake game with a small catch, the food dissapears after a certain amount of time, and the faster you eat it, the more points you get. Also, with 
 time, the speed of the snake will increase (up to a certain point, otherwise it would become unplayable).
 
