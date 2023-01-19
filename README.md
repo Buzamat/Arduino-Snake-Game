@@ -64,4 +64,10 @@ and giving the "head" the coordinates of the food we just ate.
 We use a variable representing direction to know where the snake is going, we change that using the joystick and each move cycle we check what is in front of the snake (using the direction we move in as a parameter). If there is food, we grow the snake, raise the score, spawn new food.
 If there is an empty space, we move the snake forward.If it goes offscreen we loop it from the opposite wall. If in front of it we find another part of the snake, the game is over, we play an animation where the snake disolves from it's tail to it's head, then we send the player back in the main menu.
 
-[Youtube presentation](https://www.youtube.com/watch?v=Bbhn56sG0fI)
+Presentation:
+
+
+
+https://user-images.githubusercontent.com/62521980/213357800-31210331-a920-48c8-b069-d5772d8c3f19.mp4
+
+
